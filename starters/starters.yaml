@@ -49,7 +49,7 @@
   preview: https://gridsome-forestry.netlify.com
   author: itsnwa
   tags: markdown, forestry, portfolio, blog, dark mode
-  platforms: markdown
+  platforms: forestry
 
 - title: Bootstrap starter
   description: Portfolio with Blog
@@ -119,7 +119,7 @@
   preview: https://darkfolio.netlify.com
   author: itsnwa
   tags: markdown, forestry, portfolio, dark
-  platforms: markdown
+  platforms: forestry
 
 - title: Airtable Events Starter
   description: A Gridsome starter using Airtable as a CMS to display content
@@ -137,5 +137,4 @@
   preview: https://brevifolia-gridsome-forestry.netlify.com/
   author: kendallstrautman
   tags: blog, forestry, minimalist, markdown
-  platforms: markdown
-  
+  platforms: forestry
